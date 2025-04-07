@@ -16,8 +16,6 @@ Get it [here](https://github.com/EdgeIY/infiniteyield/wiki)
 ### Developer: Moon
 ### Developer: Zwolf
 ### Developer: Toon
-### Developer: Notserp
-
 
 ## Usage
 You can learn how to use all the features of this script in the wiki!
